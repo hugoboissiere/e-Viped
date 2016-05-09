@@ -2,7 +2,7 @@
 An application that'll show you your game stats, and will help you improve them.
 
 # What does VIPED stand for?
-VIPED stands for "Vitesse, Intelligence, Précision, Endurance, Dexterité", which means "Speed, Intelligence, Accuracy, Stamina, Dexterity".
+VIPED stands for "Vitesse, Intelligence, Précision, Endurance, Dexterité" in french, which means "Speed, Intelligence, Accuracy, Stamina, Dexterity".
 
 # How does this works?
 When you launch e-Viped, the programm will analyze your inputs and the in-game stats. For example, while playing CS:GO, it'll analyze how many time you take to make your first kill each round to analyze your speed.
